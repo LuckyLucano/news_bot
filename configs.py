@@ -1,2 +1,2 @@
-TOKEN = '1628012450:AAFs1gjYzleXWDdjCex1G3OMCA8jJjVmru0'
+TOKEN = 'your_token'
 PARSE_MODE = 'HTML'
